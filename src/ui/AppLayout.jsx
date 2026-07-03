@@ -15,7 +15,6 @@ export default function AppLayout() {
       <Header />
 
       <main>
-        {" "}
         <Outlet />
       </main>
 
